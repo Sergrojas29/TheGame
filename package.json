@@ -1,0 +1,14 @@
+{
+  "name": "thegame",
+  "version": "1.0.0",
+  "description": "Mix of charades and password game. including database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Rojas-Aguilar",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
